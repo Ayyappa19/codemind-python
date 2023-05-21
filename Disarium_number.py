@@ -13,6 +13,3 @@ if(int(n)==s):
     print('True')
 else:
     print('False')
-    
-        
-    
